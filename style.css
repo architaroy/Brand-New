@@ -117,3 +117,130 @@
     font-weight:600px;
     color: white;
 }
+.love-container{
+    display: grid;
+    grid-template-columns: 45% 45%;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    gap: 90px;
+    margin-bottom: 50px;
+}
+.love-enjoy-container{
+    width: 100%;
+}
+.love-enjoy{
+    margin-bottom: 50px;
+}
+.love-enjoy h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    color:#131313FF ;
+}
+.love-enjoy p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    color: #727272FF;
+}
+.dextop-container {
+    background-color: white; 
+    box-shadow: 5px 5px 5px 6px rgb(202, 197, 197);
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 20px;   
+}
+.dextop-container h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#131313FF ;
+}
+.dextop-container p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    color:#727272FF ;
+}
+.darg-container{
+    background-color: white; 
+    box-shadow: 5px 5px 5px 6px rgb(202, 197, 197);
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+}
+.darg-container h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#131313FF ;
+}
+.darg-container p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    color:#727272FF ;
+}
+.Awesome-container{
+    background-color: white;
+    box-shadow: 5px 5px 5px 6px rgb(202, 197, 197);
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+}
+.Awesome-container h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600px;
+    color: #131313FF;
+}
+.Awesome-container p{
+    font-family: "Work Sans", sans-serif;
+    font-size:16px ;
+    color:#727272FF ;
+}
+.super-container{
+    background-color: white;
+    box-shadow: 5px 5px 5px 6px rgb(202, 197, 197);
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+}
+.super-container h3{
+    font-family: "Work Sans", sans-serif;
+    font-size:20px;
+    font-weight: 600px;
+    color:#131313FF ;
+}
+.super-container p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    color:#727272FF ;
+}
+.architect{
+    padding: 50px 0;
+}
+.architect img{
+    height: 100%;
+    width: 100%;
+}
+.year{
+    background-color: #FF900EFF;
+    text-align: center;
+    border-radius: 8px;
+    width: 50%;
+   padding: 22px 5px;
+   transform: translate(-60px,-110px);
+   
+   
+}
+.year h2{
+    font-family: "Work Sans", sans-serif;
+    font-size: 65px;
+    font-weight: bold;
+    color: white;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.year p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
