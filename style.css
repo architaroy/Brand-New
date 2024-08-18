@@ -244,3 +244,105 @@
     margin-block-start: 0;
     margin-block-end: 0;
 }
+.fact-container h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    color:#131313 ;
+
+}
+.fact-container p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    color:#727272 ;
+}
+.some-img{
+    display: grid;
+    grid-template-columns: 45% 45% 45% 45%;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    gap: 100px;
+    margin-bottom: 50px;
+    margin-right: 60px;
+}
+.awards{
+    width: 100%;
+    height: 250px;
+    padding: 15px 20px;
+    border: 1px solid #FF900E;
+    text-align: center;
+    border-radius: 8px;
+ }
+ .awards h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: #424242;
+}
+.awards p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#727272 ;
+}
+.project{
+    width: 100%;
+    height: 250px;
+    padding: 15px 20px;
+    border: 1px solid #FF900E;
+    text-align: center;
+    border-radius: 8px;
+}
+.project h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: #424242;
+}
+.project p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#727272 ;
+}
+.client{
+    width: 100%;
+    height: 250px;
+    padding: 15px 20px;
+    border: 1px solid #FF900E;
+    text-align: center;
+    border-radius: 8px;
+}
+.client h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: #424242;
+}
+.client P{
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#727272 ;
+}
+.email{
+    width: 100%;
+    height: 250px;
+    padding: 15px 20px;
+    border: 1px solid #FF900E;
+    text-align: center;
+    border-radius: 8px;
+}
+.email h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: #424242;
+}
+.email p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#727272 ;
+}
