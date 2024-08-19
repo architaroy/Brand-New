@@ -244,12 +244,15 @@
     margin-block-start: 0;
     margin-block-end: 0;
 }
+.fact-container{
+    width: 90%;
+    margin: auto;
+}
 .fact-container h3{
     font-family: "Work Sans", sans-serif;
     font-size: 45px;
     font-weight: bold;
     color:#131313 ;
-
 }
 .fact-container p{
     font-family: "Work Sans", sans-serif;
@@ -258,18 +261,14 @@
 }
 .some-img{
     display: grid;
-    grid-template-columns: 45% 45% 45% 45%;
-    width: 90%;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 100px;
+    width: 80%;
     margin: auto;
     margin-top: 50px;
-    gap: 100px;
-    margin-bottom: 50px;
-    margin-right: 60px;
 }
 .awards{
-    width: 100%;
-    height: 250px;
-    padding: 15px 20px;
+    padding: 20px 10px;
     border: 1px solid #FF900E;
     text-align: center;
     border-radius: 8px;
@@ -287,9 +286,8 @@
     color:#727272 ;
 }
 .project{
-    width: 100%;
-    height: 250px;
-    padding: 15px 20px;
+    
+    padding: 20px 10px;
     border: 1px solid #FF900E;
     text-align: center;
     border-radius: 8px;
@@ -307,9 +305,7 @@
     color:#727272 ;
 }
 .client{
-    width: 100%;
-    height: 250px;
-    padding: 15px 20px;
+     padding: 20px 10px;
     border: 1px solid #FF900E;
     text-align: center;
     border-radius: 8px;
@@ -327,9 +323,8 @@
     color:#727272 ;
 }
 .email{
-    width: 100%;
-    height: 250px;
-    padding: 15px 20px;
+    
+    padding: 20px 10px;
     border: 1px solid #FF900E;
     text-align: center;
     border-radius: 8px;
@@ -345,4 +340,48 @@
     font-size: 20px;
     font-weight: 600;
     color:#727272 ;
+}
+.our-sponspore-container{
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+.our-sponspore-container h3{
+    font-family: "Work Sans", sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    color:#131313 ;
+}
+.our-sponspore-container p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    color:#727272 ;
+
+}
+.sponsor-image img{
+    display: block; 
+}
+.sponsor-image{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footer{
+    background-color: #FFF4E7; 
+    padding: 10px 0px;
+    width: 90%;
+    margin: auto;
+    border-radius: 8px;
+    text-align: center;
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+    color: #424242;
+  
+   
+    
 }
